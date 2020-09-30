@@ -1,6 +1,6 @@
 Deserealization malicius dotnettojscript **VBA** payloads. 
 
-^.^ helping u fight the bad guys.
+^.^ helping u fight the bad guys during malware analysis
 
 Instalation(windows/linux).
 ```bash
