@@ -8,7 +8,7 @@ $ git clone https://github.com/pyperanger/rev_dotnettojscript.git # or download 
 $ cd rev_dotnettojscript && go build . 
 ```
 
-Windows: Portable avaiable :) 
+Windows: Portable version avaiable :) 
 
 
 #### Usage
