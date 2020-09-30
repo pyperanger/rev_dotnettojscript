@@ -1,4 +1,4 @@
-Deserealization malicius dotnettojscript **VBA** payloads. 
+Extract malicius PE/DLL from dotnettojscript **VBA** payloads. 
 
 ^.^ helping u fight the bad guys during malware analysis
 
