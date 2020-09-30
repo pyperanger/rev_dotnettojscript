@@ -7,7 +7,15 @@ Extract malicius PE/DLL from dotnettojscript **VBA** payloads.
 $ git clone https://github.com/pyperanger/rev_dotnettojscript.git # or download from github :)
 $ cd rev_dotnettojscript && go build . 
 ```
+
+Windows: Portable avaiable :) 
+
+
 #### Usage
 ```bash
-$ blablablabla
-```
+Usage of ./rev_dotnettojscript:
+  -f string
+     Filename
+  -o string
+     Output
+ ```
