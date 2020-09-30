@@ -2,8 +2,12 @@ Deserealization malicius dotnettojscript **VBA** payloads.
 
 ^.^ helping u fight the bad guys during malware analysis
 
-Instalation(windows/linux).
+#### Instalation(windows/linux).
 ```bash
 $ git clone https://github.com/pyperanger/rev_dotnettojscript.git # or download from github :)
 $ cd rev_dotnettojscript && go build . 
+```
+#### Usage
+```bash
+$ blablablabla
 ```
