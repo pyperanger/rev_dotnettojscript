@@ -12,6 +12,11 @@ Windows: Portable avaiable :)
 
 
 #### Usage
+
+Extract HEX payload from VBA code, cast to binary(ex: xxd -r -p payload.cer). 
+
+Input is the serialized binary 
+
 ```bash
 Usage of ./rev_dotnettojscript:
   -f string
@@ -19,3 +24,10 @@ Usage of ./rev_dotnettojscript:
   -o string
      Output`
  ```
+
+
+##### After
+
+Now you have the PE/DLL :) tip: use dotPeek or another decompiler to read the new binary
+
+Base64 payload is the same logic.. thx
