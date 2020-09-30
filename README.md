@@ -15,7 +15,7 @@ Windows: Portable avaiable :)
 ```bash
 Usage of ./rev_dotnettojscript:
   -f string
-     Filename
+     Filename (the serialized binary)
   -o string
-     Output
+     Output`
  ```
